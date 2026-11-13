@@ -1,0 +1,14 @@
+# Build artifacts
+/build/
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor & Swift temporary files
+*.swp
+*~
+.swiftpm/
+*.xcodeproj/xcuserdata/
